@@ -1,0 +1,169 @@
+<ZAP>
+	<addon>alertReport</addon>
+	<addon_alertReport>
+		<name>Report alert generator</name>
+		<description>Allows you to generate reports for alerts you specify in pdf or odt format</description>
+		<author>Talsoft SRL</author>
+		<version>9</version>
+		<file>alertReport-beta-9.zap</file>
+		<status>beta</status>
+		<changes>${zapaddon.changes}</changes>
+		<url>https://zap-extensions.googlecode.com/files/alertReport-beta-9.zap</url>
+		<size>7160284</size>
+		<date>2013-09-06</date>
+	</addon_alertReport>
+
+	<addon>ascanrulesBeta</addon>
+	<addon_ascanrulesBeta>
+		<name>Active scanner rules (beta)</name>
+		<description>The beta quality Active Scanner rules</description>
+		<author>ZAP Dev Team</author>
+		<version>9</version>
+		<file>ascanrulesBeta-beta-9.zap</file>
+		<status>beta</status>
+		<changes>Updated to be compatible with 2.2.0</changes>
+		<url>https://zap-extensions.googlecode.com/files/ascanrulesBeta-beta-9.zap</url>
+		<size>58678</size>
+		<date>2013-09-06</date>
+	</addon_ascanrulesBeta>
+
+	<addon>beanshell</addon>
+	<addon_beanshell>
+		<name>BeanShell Console</name>
+		<description>Provides a BeanShell Console</description>
+		<author>ZAP Dev Team</author>
+		<version>2</version>
+		<file>beanshell-beta-2.zap</file>
+		<status>beta</status>
+		<changes>Changed to unload some components when uninstalling.</changes>
+		<url>https://zap-extensions.googlecode.com/files/beanshell-beta-2.zap</url>
+		<size>312811</size>
+		<date>2013-09-06</date>
+	</addon_beanshell>
+
+	<addon>plugnhack</addon>
+	<addon_plugnhack>
+		<name>Plug-n-Hack Configuration</name>
+		<description>Supports the Mozilla Plug-n-Hack standard: https://developer.mozilla.org/en-US/docs/Plug-n-Hack.</description>
+		<author>ZAP Dev Team</author>
+		<version>4</version>
+		<file>plugnhack-beta-4.zap</file>
+		<status>beta</status>
+		<changes>Moved to beta</changes>
+		<url>https://zap-extensions.googlecode.com/files/plugnhack-beta-4.zap</url>
+		<size>362651</size>
+		<date>2013-09-06</date>
+	</addon_plugnhack>
+
+	<addon>portscan</addon>
+	<addon_portscan>
+		<name>Port Scanner</name>
+		<description>Allows to port scan a target server</description>
+		<author>ZAP Dev Team</author>
+		<version>3</version>
+		<file>portscan-beta-3.zap</file>
+		<status>beta</status>
+		<changes>Updated language files.</changes>
+		<url>https://zap-extensions.googlecode.com/files/portscan-beta-3.zap</url>
+		<size>86159</size>
+		<date>2013-09-06</date>
+	</addon_portscan>
+
+	<addon>pscanrulesBeta</addon>
+	<addon_pscanrulesBeta>
+		<name>Passive scanner rules (beta)</name>
+		<description>The beta quality Passive Scanner rules</description>
+		<author>ZAP Dev Team</author>
+		<version>6</version>
+		<file>pscanrulesBeta-beta-6.zap</file>
+		<status>beta</status>
+		<changes>Updated to be compatible with 2.2.0</changes>
+		<url>https://zap-extensions.googlecode.com/files/pscanrulesBeta-beta-6.zap</url>
+		<size>53121</size>
+		<date>2013-09-06</date>
+	</addon_pscanrulesBeta>
+
+	<addon>scripts</addon>
+	<addon_scripts>
+		<name>Script Console</name>
+		<description>Supports all JRS 223 scripting languages</description>
+		<author>ZAP Dev Team</author>
+		<version>9</version>
+		<file>scripts-beta-9.zap</file>
+		<status>beta</status>
+		<changes>Moved script support into the core and added targeted scripts</changes>
+		<url>https://zap-extensions.googlecode.com/files/scripts-beta-9.zap</url>
+		<size>91787</size>
+		<date>2013-09-06</date>
+	</addon_scripts>
+
+	<addon>spiderAjax</addon>
+	<addon_spiderAjax>
+		<name>Ajax Spider</name>
+		<description>Allows you to spider sites that make heavy use of javascript using crawljax</description>
+		<author>ZAP Dev Team</author>
+		<version>7</version>
+		<file>spiderAjax-beta-7.zap</file>
+		<status>beta</status>
+		<changes>${zapaddon.changes}</changes>
+		<url>https://zap-extensions.googlecode.com/files/spiderAjax-beta-7.zap</url>
+		<size>20162293</size>
+		<date>2013-09-06</date>
+	</addon_spiderAjax>
+
+	<addon>svndigger</addon>
+	<addon_svndigger>
+		<name>SVN Digger files</name>
+		<description>SVN Digger files which can be used with ZAP forced browsing</description>
+		<author>ZAP Dev Team</author>
+		<version>2</version>
+		<file>svndigger-beta-2.zap</file>
+		<status>beta</status>
+		<changes></changes>
+		<url>https://zap-extensions.googlecode.com/files/svndigger-beta-2.zap</url>
+		<size>614790</size>
+		<date>2013-09-06</date>
+	</addon_svndigger>
+
+	<addon>treetools</addon>
+	<addon_treetools>
+		<name>TreeTools</name>
+		<description>Tools to add functionality to the tree view.</description>
+		<author>Carl Sampson</author>
+		<version>2</version>
+		<file>treetools-beta-2.zap</file>
+		<status>beta</status>
+		<changes>${zapaddon.changes}</changes>
+		<url>https://zap-extensions.googlecode.com/files/treetools-beta-2.zap</url>
+		<size>4791</size>
+		<date>2013-09-06</date>
+	</addon_treetools>
+
+	<addon>zest</addon>
+	<addon_zest>
+		<name>Zest - Scripting Security Tests</name>
+		<description>Allows you to create and run scripts for reproducing security issues.</description>
+		<author>ZAP Dev Team</author>
+		<version>8</version>
+		<file>zest-beta-8.zap</file>
+		<status>beta</status>
+		<changes>Promoted to beta (provisionally) and plug into script console ** Not ready for release yet!! ***</changes>
+		<url>https://zap-extensions.googlecode.com/files/zest-beta-8.zap</url>
+		<size>454691</size>
+		<date>2013-09-06</date>
+	</addon_zest>
+
+	<addon>tokengen</addon>
+	<addon_tokengen>
+		<name>Token generation and analysis</name>
+		<description>Allows you to generate and analyze pseudo random tokens, such as those used for session handling or CSRF protection</description>
+		<author>ZAP Dev Team</author>
+		<version>5</version>
+		<file>tokengen-beta-5.zap</file>
+		<status>beta</status>
+		<changes>Updated language files.</changes>
+		<url>https://zap-extensions.googlecode.com/files/tokengen-beta-5.zap</url>
+		<size>65623</size>
+		<date>2013-09-06</date>
+	</addon_tokengen>
+</ZAP>
